@@ -1,8 +1,9 @@
-# capsule
+# Blogging with Ocaml
 
-> A rather clumsy attempt to have a static blog generator (based on
-> [YOCaml](https://github.com/xhtmlboi/yocaml)) that puts less pressure on me to
-> write long articles that nobody reads.
+> A blog completly written in ocaml. Because I can.
+
+Shamefuly forked from [XVW's capsule](https://github.com/xvw/capsule) project,
+all credit to him until I make it my own. Go check his work.
 
 ## Local installation
 
